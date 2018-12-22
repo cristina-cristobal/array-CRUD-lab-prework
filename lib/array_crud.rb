@@ -1,5 +1,5 @@
 def create_an_empty_array
-  my_array = array.new
+  array = []
 end
 
 def create_an_array
